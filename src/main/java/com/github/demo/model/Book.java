@@ -12,7 +12,7 @@ public class Book {
     private String cover;
 
     public Book() {
-
+        // this is a constructor
     }
 
     public Book(String author, String title) {
